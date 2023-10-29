@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ConsoleApp-Variables\ConsoleApp-Variables\bin\Debug\ConsoleApp-Variables.exe.config
+C:\Users\asus\source\repos\ConsoleApp-Variables\ConsoleApp-Variables\bin\Debug\ConsoleApp-Variables.exe
+C:\Users\asus\source\repos\ConsoleApp-Variables\ConsoleApp-Variables\bin\Debug\ConsoleApp-Variables.pdb
+C:\Users\asus\source\repos\ConsoleApp-Variables\ConsoleApp-Variables\obj\Debug\ConsoleApp-Variables.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ConsoleApp-Variables\ConsoleApp-Variables\obj\Debug\ConsoleApp-Variables.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp-Variables\ConsoleApp-Variables\obj\Debug\ConsoleApp-Variables.exe
+C:\Users\asus\source\repos\ConsoleApp-Variables\ConsoleApp-Variables\obj\Debug\ConsoleApp-Variables.pdb
